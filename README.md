@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MohammedAlidrovox
+- 👋 Hi, I’m @MohammedAli.
 - 👀 I’m interested in Technical Projects.
-- 🌱 I’m currently learning At Medical Field.
+- 🌱 I’m currently work At Technical/Medical Field.
 - 💞️ I’m looking to collaborate on VOTL Projects.
-- 📫 reach me At Ceo@drovox.con
+- 📫 reach me At Ceo@drovox.com
 
 <!---
 MohammedAlidrovox/MohammedAlidrovox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
